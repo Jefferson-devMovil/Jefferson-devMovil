@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jefferson-devMovil
 - 👀 I’m interested in Devmovil
 - 🌱 I’m currently learning devmovil
-- 💞️ I’m looking to collaborate on Instituto Tegnologico de las Americas (ITLA)
+- 🧑‍🎓 I study at the Technological Institute of the Americas (ITAL)."
 - 📫 How to reach me Jeffersonmercedes20@gmail.com
 
 <!---
